@@ -1,24 +1,12 @@
 build/opt/nvmain/Interconnect/OffChipBus/OffChipBus.os: \
  build/opt/nvmain/Interconnect/OffChipBus/OffChipBus.cpp \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/Interconnect/OffChipBus/OffChipBus.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/Rank.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/Bank.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/NVMObject.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/include/NVMTypes.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/include/FailReasons.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/Decoders/DecoderFactory.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/AddressTranslator.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/TranslationMethod.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/Config.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/SimInterface.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/include/NVMDataBlock.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/Stats.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/include/NVMainRequest.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/include/NVMAddress.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/TagGenerator.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/Params.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/Debug.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/Interconnect.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/MemoryController.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/Ranks/RankFactory.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/EventQueue.h
+ nvmain/Interconnect/OffChipBus/OffChipBus.h nvmain/src/Rank.h \
+ nvmain/src/Bank.h nvmain/src/NVMObject.h nvmain/include/NVMTypes.h \
+ nvmain/include/FailReasons.h nvmain/Decoders/DecoderFactory.h \
+ nvmain/src/AddressTranslator.h nvmain/src/TranslationMethod.h \
+ nvmain/src/Config.h nvmain/src/SimInterface.h \
+ nvmain/include/NVMDataBlock.h nvmain/src/Stats.h \
+ nvmain/include/NVMainRequest.h nvmain/include/NVMAddress.h \
+ nvmain/src/TagGenerator.h nvmain/src/Params.h nvmain/src/Debug.h \
+ nvmain/src/Interconnect.h nvmain/src/MemoryController.h \
+ nvmain/Ranks/RankFactory.h nvmain/src/EventQueue.h

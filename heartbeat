@@ -1,9 +1,9 @@
 Running on: zhuguoliang-ThinkPad-X220
-Start time: Thu Nov 20 08:15:31 2014
-Heartbeat time: Thu Nov 20 08:16:18 2014
+Start time: Sun Jan 11 22:13:23 2015
+Heartbeat time: Sun Jan 11 22:44:24 2015
 Stats since start:
- 212 phases
- 2120000 cycles
- 45106 cycles/s
-Stats since last heartbeat (1416489378s):
- 0 cycles/s
+ 20204 phases
+ 202040000 cycles
+ 108565 cycles/s
+Stats since last heartbeat (10s):
+ 220000 cycles/s

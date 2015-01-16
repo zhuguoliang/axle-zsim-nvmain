@@ -1,31 +1,17 @@
 build/opt/nvmain/src/SubArray.os: build/opt/nvmain/src/SubArray.cpp \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/SubArray.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/NVMObject.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/include/NVMTypes.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/include/FailReasons.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/Decoders/DecoderFactory.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/AddressTranslator.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/TranslationMethod.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/Config.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/SimInterface.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/include/NVMDataBlock.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/Stats.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/include/NVMainRequest.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/include/NVMAddress.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/TagGenerator.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/EnduranceModel.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/Params.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/Debug.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/EnduranceDistribution.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/FaultModel.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/DataEncoder.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/Bank.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/MemoryController.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/Interconnect.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/EventQueue.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/include/NVMHelpers.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/Endurance/EnduranceModelFactory.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/Endurance/RowModel/RowModel.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/Endurance/NullModel/NullModel.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/Endurance/Distributions/Normal.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/DataEncoders/DataEncoderFactory.h
+ nvmain/src/SubArray.h nvmain/src/NVMObject.h nvmain/include/NVMTypes.h \
+ nvmain/include/FailReasons.h nvmain/Decoders/DecoderFactory.h \
+ nvmain/src/AddressTranslator.h nvmain/src/TranslationMethod.h \
+ nvmain/src/Config.h nvmain/src/SimInterface.h \
+ nvmain/include/NVMDataBlock.h nvmain/src/Stats.h \
+ nvmain/include/NVMainRequest.h nvmain/include/NVMAddress.h \
+ nvmain/src/TagGenerator.h nvmain/src/EnduranceModel.h \
+ nvmain/src/Params.h nvmain/src/Debug.h \
+ nvmain/src/EnduranceDistribution.h nvmain/src/FaultModel.h \
+ nvmain/src/DataEncoder.h nvmain/src/Bank.h nvmain/src/MemoryController.h \
+ nvmain/src/Interconnect.h nvmain/src/EventQueue.h \
+ nvmain/include/NVMHelpers.h nvmain/Endurance/EnduranceModelFactory.h \
+ nvmain/Endurance/RowModel/RowModel.h \
+ nvmain/Endurance/NullModel/NullModel.h \
+ nvmain/Endurance/Distributions/Normal.h \
+ nvmain/DataEncoders/DataEncoderFactory.h

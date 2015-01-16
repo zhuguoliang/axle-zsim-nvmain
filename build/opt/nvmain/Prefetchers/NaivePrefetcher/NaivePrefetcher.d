@@ -1,8 +1,6 @@
 build/opt/nvmain/Prefetchers/NaivePrefetcher/NaivePrefetcher.os: \
  build/opt/nvmain/Prefetchers/NaivePrefetcher/NaivePrefetcher.cpp \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/Prefetchers/NaivePrefetcher/NaivePrefetcher.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/Prefetcher.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/include/NVMAddress.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/include/NVMainRequest.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/include/NVMDataBlock.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/include/NVMTypes.h
+ nvmain/Prefetchers/NaivePrefetcher/NaivePrefetcher.h \
+ nvmain/src/Prefetcher.h nvmain/include/NVMAddress.h \
+ nvmain/include/NVMainRequest.h nvmain/include/NVMDataBlock.h \
+ nvmain/include/NVMTypes.h

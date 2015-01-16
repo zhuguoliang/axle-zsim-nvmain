@@ -1,0 +1,18 @@
+Loading /bin/ls, Image id = 1
+Loading /lib64/ld-linux-x86-64.so.2, Image id = 2
+Loading /lib/x86_64-linux-gnu/libselinux.so.1, Image id = 3
+Loading /lib/x86_64-linux-gnu/librt.so.1, Image id = 4
+Loading /lib/x86_64-linux-gnu/libacl.so.1, Image id = 5
+Loading /lib/x86_64-linux-gnu/libc.so.6, Image id = 6
+Loading /lib/x86_64-linux-gnu/libdl.so.2, Image id = 7
+Loading /lib/x86_64-linux-gnu/libpthread.so.0, Image id = 8
+Loading /lib/x86_64-linux-gnu/libattr.so.1, Image id = 9
+Unloading /bin/ls
+Unloading /lib64/ld-linux-x86-64.so.2
+Unloading /lib/x86_64-linux-gnu/libselinux.so.1
+Unloading /lib/x86_64-linux-gnu/librt.so.1
+Unloading /lib/x86_64-linux-gnu/libacl.so.1
+Unloading /lib/x86_64-linux-gnu/libc.so.6
+Unloading /lib/x86_64-linux-gnu/libdl.so.2
+Unloading /lib/x86_64-linux-gnu/libpthread.so.0
+Unloading /lib/x86_64-linux-gnu/libattr.so.1

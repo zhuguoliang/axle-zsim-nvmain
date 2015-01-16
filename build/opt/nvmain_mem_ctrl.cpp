@@ -435,6 +435,8 @@ bool NVMainMemory::RequestComplete(NVM::NVMainRequest *creq) {
         latencyHist.inc(bucket, 1);
     }
 
+    //std::cout<< "get Name is "<<getName()<<std:endl;
+info("[%s] [RequestComplete] %s access to %lx DONE at %ld (%ld cycles), %ld inflight reqs", getName(), ev->isWrite()? "W" : "R", ev->getAddr(), curCycle, lat, inflightRequests.size());
     ev->release();
     ev->done(curCycle+1);
 
@@ -443,7 +445,7 @@ bool NVMainMemory::RequestComplete(NVM::NVMainRequest *creq) {
 
     inflightRequests.erase(it);
 
-    //info("[%s] [RequestComplete] %s access to %lx DONE at %ld (%ld cycles), %ld inflight reqs", getName(), ev->isWrite()? "W" : "R", ev->getAddr(), curCycle, lat, inflightRequests.size());
+    
 
     delete creq;
     return true;

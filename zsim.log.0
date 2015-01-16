@@ -1,6 +1,6 @@
 [S 0] Started instance
 [S 0] Started RR scheduler, quantum=10000 phases
-[S 0] NVMainControl: Reading NVMain config file: /home/zhuguoliang/tools/axle-zsim-nvmain/zsim/tests/pcm-nvmain.config
+[S 0] NVMainControl: Reading NVMain config file: /home/zhuguoliang/projects/git_proj/axle-zsim-nvmain/zsim/tests/pcm-nvmain.config
 [S 0] NVMain: with 2600.000000 cpuFreq, 400.000000 busFreq
 [S 0] l2's children are all terminal OR PREFETCHERS, interleaving them
 [S 0] Initialized system
@@ -10,5 +10,17 @@
 [S 0] HDF5 backend: Created table, 7504 bytes/record, 18 records/write
 [S 0] HDF5 backend: Opening /home/zhuguoliang/projects/git_proj/axle-zsim-nvmain/zsim-cmp.h5
 [S 0] HDF5 backend: Created table, 4032 bytes/record, 1 records/write
-[S 0] WARN: Setting sim.deadlockDetection not used during configuration
-[S 0] Panic on build/opt/config.cpp:126: 1 setting not used during configuration
+[S 0] Initialization complete
+[S 0] Started process, PID 4993
+[S 0] procMask: 0x0
+[S 0] [0] Adjusting clocks, domain 0, de-ffwd 0
+[S 0] vDSO info initialized
+[S 0] Started contention simulation thread 0
+[S 0] Thread 0 starting
+[S 0] Started scheduler watchdog thread
+[S 0] FF control Thread TID 5001
+[S 0] Thread 0 finished
+[S 0] Finished, code 0
+[S 0] Dumping termination stats
+[S 0] Has nvmain 1, num memory controllers 1
+[S 0] Finished scheduler watchdog thread

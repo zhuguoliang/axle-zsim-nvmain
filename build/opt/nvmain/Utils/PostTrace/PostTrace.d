@@ -1,27 +1,14 @@
 build/opt/nvmain/Utils/PostTrace/PostTrace.os: \
  build/opt/nvmain/Utils/PostTrace/PostTrace.cpp \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/Utils/PostTrace/PostTrace.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/NVMObject.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/include/NVMTypes.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/include/FailReasons.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/Decoders/DecoderFactory.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/AddressTranslator.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/TranslationMethod.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/Config.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/SimInterface.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/include/NVMDataBlock.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/Stats.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/include/NVMainRequest.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/include/NVMAddress.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/TagGenerator.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/traceWriter/GenericTraceWriter.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/traceReader/TraceLine.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/EventQueue.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/Bank.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/Rank.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/Params.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/Debug.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/NVM/nvmain.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/Prefetcher.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/include/NVMHelpers.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/traceWriter/TraceWriterFactory.h
+ nvmain/Utils/PostTrace/PostTrace.h nvmain/src/NVMObject.h \
+ nvmain/include/NVMTypes.h nvmain/include/FailReasons.h \
+ nvmain/Decoders/DecoderFactory.h nvmain/src/AddressTranslator.h \
+ nvmain/src/TranslationMethod.h nvmain/src/Config.h \
+ nvmain/src/SimInterface.h nvmain/include/NVMDataBlock.h \
+ nvmain/src/Stats.h nvmain/include/NVMainRequest.h \
+ nvmain/include/NVMAddress.h nvmain/src/TagGenerator.h \
+ nvmain/traceWriter/GenericTraceWriter.h nvmain/traceReader/TraceLine.h \
+ nvmain/src/EventQueue.h nvmain/src/Bank.h nvmain/src/Rank.h \
+ nvmain/src/Params.h nvmain/src/Debug.h nvmain/NVM/nvmain.h \
+ nvmain/src/Prefetcher.h nvmain/include/NVMHelpers.h \
+ nvmain/traceWriter/TraceWriterFactory.h

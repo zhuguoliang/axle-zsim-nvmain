@@ -1,25 +1,14 @@
 build/opt/nvmain/Utils/HookFactory.os: \
- build/opt/nvmain/Utils/HookFactory.cpp \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/Utils/HookFactory.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/NVMObject.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/include/NVMTypes.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/include/FailReasons.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/Decoders/DecoderFactory.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/AddressTranslator.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/TranslationMethod.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/Config.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/SimInterface.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/include/NVMDataBlock.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/Stats.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/include/NVMainRequest.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/include/NVMAddress.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/TagGenerator.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/Utils/Visualizer/Visualizer.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/Utils/RequestTracer/RequestTracer.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/EventQueue.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/Utils/PostTrace/PostTrace.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/traceWriter/GenericTraceWriter.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/traceReader/TraceLine.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/Utils/CoinMigrator/CoinMigrator.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/Params.h \
- /home/zhuguoliang/tools/axle-zsim-nvmain/nvmain/src/Debug.h
+ build/opt/nvmain/Utils/HookFactory.cpp nvmain/Utils/HookFactory.h \
+ nvmain/src/NVMObject.h nvmain/include/NVMTypes.h \
+ nvmain/include/FailReasons.h nvmain/Decoders/DecoderFactory.h \
+ nvmain/src/AddressTranslator.h nvmain/src/TranslationMethod.h \
+ nvmain/src/Config.h nvmain/src/SimInterface.h \
+ nvmain/include/NVMDataBlock.h nvmain/src/Stats.h \
+ nvmain/include/NVMainRequest.h nvmain/include/NVMAddress.h \
+ nvmain/src/TagGenerator.h nvmain/Utils/Visualizer/Visualizer.h \
+ nvmain/Utils/RequestTracer/RequestTracer.h nvmain/src/EventQueue.h \
+ nvmain/Utils/PostTrace/PostTrace.h \
+ nvmain/traceWriter/GenericTraceWriter.h nvmain/traceReader/TraceLine.h \
+ nvmain/Utils/CoinMigrator/CoinMigrator.h nvmain/src/Params.h \
+ nvmain/src/Debug.h
